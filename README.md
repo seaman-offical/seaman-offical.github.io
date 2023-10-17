@@ -1,1 +1,1 @@
-# seaman-official.github.io
+# seaman-offical.github.io
